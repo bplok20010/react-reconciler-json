@@ -2,7 +2,9 @@
 
 使用 `react-reconciler` 将 `JSX` 输出为 `json` 格式数据
 
-## 效果
+> 这只是个演示 demo
+
+## 示例
 
 ```jsx
 import React, { Component } from "react";
@@ -44,7 +46,7 @@ class App extends Component {
 export default App;
 ```
 
-最终输出效果
+**输出效果**
 
 ```json
 [
